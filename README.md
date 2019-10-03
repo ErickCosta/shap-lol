@@ -1,2 +1,2 @@
 # shap-lol
-Tutorial de utilização do SHAP com dados do League of Legends
+Tutorial de utilização do SHAP com dados do League of Legends.
