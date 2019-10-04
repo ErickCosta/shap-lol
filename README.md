@@ -6,4 +6,6 @@ Esse guia é uma tradução livre do material disponibilziado por Scott Lundberg
 
 O objetivo de minha parte, é disseminar conhecimento través de materiais de grande relevância para público local (PT-BR).
 
-Para acessar o material completo você pode acessar o arquivo com extensão ".ipynb".
+Para acessar o material completo você pode acessar o arquivo com extensão ".ipynb" ou acessar o link abaixo:
+
+https://github.com/ErickCosta/shap-lol/blob/master/shap-lol.ipynb
